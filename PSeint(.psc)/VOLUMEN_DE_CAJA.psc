@@ -1,5 +1,5 @@
 Algoritmo Calcular_Volumen_Caja
-    // Declaraci�n de variables
+    // Declaracion de variables
     Definir largo, ancho, alto, volumen Como Real
     
     // Solicitar ingresar el largo de la caja
@@ -18,5 +18,5 @@ Algoritmo Calcular_Volumen_Caja
     volumen = largo * ancho * alto
     
     // Mostrar el volumen calculado
-    Escribir "El volumen de la caja es: ", volumen, " unidades c�bicas."
+    Escribir "El volumen de la caja es: ", volumen, " unidades cubicas."
 FinAlgoritmo
