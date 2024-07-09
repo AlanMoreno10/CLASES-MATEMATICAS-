@@ -64,11 +64,5 @@ Accede a mis anotaciones y notebooks en Google Colab, donde desarrollo y explico
 ## Contribuciones y Retroalimentación 💬
 ¡Tus contribuciones son bienvenidas! Si deseas agregar algún recurso, corregir algún error o sugerir mejoras, no dudes en enviar un pull request o abrir un issue. Tu retroalimentación es muy valiosa para mantener este repositorio actualizado y útil para todos. 🙌
 
-## Contacto 📧
-Si tienes alguna pregunta, sugerencia o simplemente quieres compartir tus ideas, puedes contactarme a través de los siguientes medios:
-
-- 📩 Correo: [tu-email@example.com](mailto:tu-email@example.com)
-- 🐦 Twitter: [@tu_usuario](https://twitter.com/tu_usuario)
-- 💼 LinkedIn: [Tu Nombre](https://www.linkedin.com/in/tu-nombre/)
 
 ¡Gracias por visitar mi repositorio y espero que encuentres útiles los recursos compartidos! 🎉
