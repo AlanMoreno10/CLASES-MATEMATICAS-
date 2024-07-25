@@ -25,5 +25,18 @@ Accede a mis anotaciones y notebooks en Google Colab, donde desarrollo y explico
 ## Contribuciones y Retroalimentación 💬
 ¡Tus contribuciones son bienvenidas! Si deseas agregar algún recurso, corregir algún error o sugerir mejoras, no dudes en enviar un pull request o abrir un issue. Tu retroalimentación es muy valiosa para mantener este repositorio actualizado y útil para todos. 🙌
 
+©️ Referencias y Licencias
+Este trabajo utiliza material del curso "Matemáticas y Programación para Ciencias Sociales" de FLACSO Ecuador.
+
+Pérez, F. (2024). Matemáticas y Programación para Ciencias Sociales. FLACSO Ecuador.
+
+Repositorio GitHub: https://github.com/franperezec/math (Licencia MIT)
+Canal de YouTube: https://www.youtube.com/channel/UCAGEJb2ofN1E99dc-WbPkBQ (CC BY 4.0)
+Al utilizar este material, acepto cumplir con los términos de las licencias MIT y Creative Commons BY 4.0 respectivamente.
+
+Para más detalles sobre las licencias o usos adicionales, consulte:
+
+Licencia MIT: https://opensource.org/licenses/MIT
+Licencia CC BY 4.0: https://creativecommons.org/licenses/by/4.0/deed.es
 
 ¡Gracias por visitar mi repositorio y espero que encuentres útiles los recursos compartidos! 🎉
